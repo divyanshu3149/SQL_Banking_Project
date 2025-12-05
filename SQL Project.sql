@@ -204,7 +204,7 @@ from accounts;
               ORDER BY total_withdrawal DESC
               LIMIT 3;
               
--- ADVANCED & INTERVIEW-FOCUSED
+-- ADVANCED 
 
 -- 1.Detect transactions where the withdrawal amount is more than the account balance.
 -- 2.Find customers with multiple transactions on the same day.
